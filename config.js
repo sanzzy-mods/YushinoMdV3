@@ -45,7 +45,7 @@ global.owner = [
 global.mods = []
 global.prems = []
 global.nomorbot = '6285797375014'
-global.nomorown = '97698148157'
+global.nomorown = '6285797375014'
 global.nomorown1 = '97698148157'
 global.nomorown2 = '6285797375014'
 global.nomorwa = '0'
@@ -55,7 +55,7 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Created By EtesBotz'
-global.namebot = 'victor bot'
+global.namebot = 'EtesBotz'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Kpybotz'
 global.media = 'https://telegra.ph/file/b69e2e87cdbaebb7751ce.jpg'
 global.watermark = wm
@@ -84,9 +84,9 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085797375014'
+global.pdana = '0857-9737-5014'
 global.povo = '-'
-global.pgopay = '085797375014'
+global.pgopay = '0857-9737-5014'
 global.plinkaja = '-' //link aja
 global.ppulsa = '085797375014'
 global.ppulsa2 = '085797375014'
