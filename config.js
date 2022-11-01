@@ -39,7 +39,7 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285797375014', 'Kpy', true],
+['6285797375014', 'Kuproy', true],
 ['97698148157', 'Etes', true]
 ]
 global.mods = []
@@ -69,7 +69,7 @@ global.stickauth = `© EtesBotz`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Kpy'
+global.nameown1= 'Kuproy'
 global.nameown2 = 'Etes'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'https://chat.whatsapp.com/B6NS1pwwv1s6Bf7ZrIv2Q2'
