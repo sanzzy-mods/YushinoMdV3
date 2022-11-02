@@ -40,13 +40,13 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6285797375014', 'Kuproy', true],
-['97698148157', 'Etes', true]
+['6285797375014', 'Etes', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6285797375014'
 global.nomorown = '6285797375014'
-global.nomorown1 = '97698148157'
+global.nomorown1 = '6285797375014'
 global.nomorown2 = '6285797375014'
 global.nomorwa = '0'
 
@@ -57,7 +57,7 @@ global.readMore = readMore
 global.author = 'Created By EtesBotz'
 global.namebot = 'EtesBotz'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Kpybotz'
-global.media = 'https://telegra.ph/file/b69e2e87cdbaebb7751ce.jpg'
+global.media = '-'
 global.watermark = wm
 global.wm2 = 'Etes Botz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
@@ -274,8 +274,8 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/e72de2cbba03f58eba7d1.jpg' //ini juga ganti 
+global.fotonya1 = '-' //ganti jadi foto bot mu
+global.fotonya2 = '-' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
