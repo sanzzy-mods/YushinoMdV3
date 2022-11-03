@@ -16,7 +16,7 @@ Maaf Kamu akan dikick dari grup ini!
 `.trim(), m)
 
     this.groupRemove(m.chat, [m.sender])
-  } else return false
+  } else return flase
 }
 handler.group = true
 
