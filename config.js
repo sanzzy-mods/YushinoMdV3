@@ -44,7 +44,7 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282131369002'
+global.nomorbot = '6281393228709'
 global.nomorown = '6285172446692'
 global.nomorown1 = '6285172446692'
 global.nomorown2 = '6285757256591'
@@ -84,7 +84,7 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085172446692'
+global.pdana = '081393228709'
 global.povo = '-'
 global.pgopay = '085172446692'
 global.plinkaja = '-' //link aja
