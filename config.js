@@ -39,16 +39,16 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285172446692', 'levi 😸', true],
-['6285757256591', 'qory 😸', true]
+['6282197210183', 'levi 😸', true],
+['6282197210183', 'qory 😸', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282131369002'
-global.nomorown = '6285172446692'
-global.nomorown1 = '6285172446692'
-global.nomorown2 = '6285757256591'
-global.nomorwa = '0'
+global.nomorbot = '6282197210183'
+global.nomorown = '6282197210183'
+global.nomorown1 = '6282197210183'
+global.nomorown2 = '6282197210183'
+global.nomorwa = '6282197210183'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -77,19 +77,19 @@ global.lynk = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y='
+global.sig = 'https://instagram.com/dits_mods79?igshid=YmMyMTA2M2Y='
 global.sgh = 'https://github.com/victorbot22' //github
 global.sgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085172446692'
+global.pdana = '6282197210183'
 global.povo = '-'
-global.pgopay = '085172446692'
+global.pgopay = '6282197210183'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.ppulsa = '6282197210183'
+global.ppulsa2 = '6282197210183'
 global.psaweria = '-'
 
 
