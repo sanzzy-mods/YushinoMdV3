@@ -39,22 +39,22 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285172446692', 'levi 😸', true],
-['6285757256591', 'qory 😸', true]
+['6285172446692', 'LeviZull', true],
+['6282245768235', 'levigyz', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6282131369002'
-global.nomorown = '6285172446692'
+global.nomorown = '6282245768235'
 global.nomorown1 = '6285172446692'
-global.nomorown2 = '6285757256591'
+global.nomorown2 = '6282245768235'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐋𝐄𝐕𝐈 𝐗 𝐐𝐎𝐑𝐘'
+global.author = '𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐋𝐄𝐕𝐈'
 global.namebot = '𝐕𝐈𝐂𝐓𝐎𝐑 𝐁𝐎𝐓'
 global.wm = '© 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐕𝐈𝐂𝐓𝐎𝐑 𝐁𝐎𝐓'
 global.media = 'https://telegra.ph/file/b69e2e87cdbaebb7751ce.jpg'
@@ -63,16 +63,16 @@ global.wm2 = '𝐕𝐈𝐂𝐓𝐎𝐑 𝐁𝐎𝐓 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝐋𝐄𝐕𝐈 𝐗 𝐐𝐎𝐑𝐘`
-global.stickpack = '𝐋𝐄𝐕𝐈 𝐗 𝐐𝐎𝐑𝐘'
+global.titlebot = `𝐋𝐄𝐕𝐈 𝐗 𝐆𝐘𝐙`
+global.stickpack = '𝐋𝐄𝐕𝐈 𝐗 𝐆𝐘𝐙'
 global.stickauth = `© 𝚅𝙸𝙲𝚃𝙾𝚁 𝙱𝙾𝚃`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'levi 😸'
-global.nameown2 = 'qory 😸'
+global.nameown1= 'LeviZull'
+global.nameown2 = 'levigyz'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
+global.Linkgc = 'https://chat.whatsapp.com/LwYaRgzmbkTJ8dPuWej4mG'
 global.lynk = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
 
 
@@ -88,8 +88,8 @@ global.pdana = '085172446692'
 global.povo = '-'
 global.pgopay = '085172446692'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.ppulsa = '085172446692'
+global.ppulsa2 = '082131369002'
 global.psaweria = '-'
 
 
