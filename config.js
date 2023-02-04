@@ -39,8 +39,8 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285797375014', 'Kuproy', true],
-['6285797375014', 'Etes', true]
+['6285797375014', 'Iky', true],
+['6285797375014', 'kyky', true]
 ]
 global.mods = []
 global.prems = []
@@ -54,42 +54,42 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By EtesBotz'
-global.namebot = 'EtesBotz'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Kpybotz'
+global.author = 'Created By KyBotz'
+global.namebot = 'KyBotz'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Kybotz'
 global.media = '-'
 global.watermark = wm
-global.wm2 = 'Etes Botz'
+global.wm2 = 'Ky Botz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `EtesBotz`
-global.stickpack = 'EtesBotz'
+global.titlebot = `KyBotz`
+global.stickpack = 'KyBotz'
 global.stickauth = `© EtesBotz`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Kuproy'
-global.nameown2 = 'Etes'
+global.nameown1= 'Iky'
+global.nameown2 = 'Kyky'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'https://chat.whatsapp.com/B6NS1pwwv1s6Bf7ZrIv2Q2'
-global.lynk = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
+global.Linkgc = 'https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h'
+global.lynk = 'https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/znxphoenix'
+global.sig = 'https://instagram.com/lynxofcid'
 global.sgh = 'https://github.com/victorbot22' //github
-global.sgc = 'https://chat.whatsapp.com/B6NS1pwwv1s6Bf7ZrIv2Q2' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0857-9737-5014'
+global.pdana = 'chatowner'
 global.povo = '-'
-global.pgopay = '0857-9737-5014'
+global.pgopay = 'chatowner'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085797375014'
-global.ppulsa2 = '085797375014'
+global.ppulsa = 'chatowner'
+global.ppulsa2 = 'chatowner'
 global.psaweria = '-'
 
 
